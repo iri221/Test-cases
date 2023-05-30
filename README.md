@@ -5,6 +5,7 @@ Below are some Test Case samples that I wrote while working on previous projects
 
 
 "Description"
+
 Check if the login works when a person uses a correct user/pass.
 
 "Steps to reproduce"
@@ -21,6 +22,7 @@ User: irina & pass 123456
 
 
 "Description"
+
 When I click on the video file instead of getting the video, an error pops up indicating that the requested page is not available. Something along the lines of   '404 Not Found'. The browser then displays this error code. 
 
 "Steps to reproduce"
